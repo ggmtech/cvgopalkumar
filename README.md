@@ -6,10 +6,6 @@
 - RDSO, Annexi 2, Manak Nagar,Alambagh, Lucknow, Uttar Pradesh - 226011, India 
 
 
-# Interest and Motivation 
-
-- To contribute with Productive Engagement for time pass with reasonable respectability 
-
 
 # Educational Qualifications:
 1. **M.Tech (Digital Manufacturing)**, Birla Institute of Technology and Science, Pilani (BITS Pilani), India
@@ -30,7 +26,7 @@
 5. Digital 3D Printing additive manufacturing
 6. Publishing:  Proficient in Latex and Quarto Markdown on Rstudio suite.
 
-# Language Known
+# Language
 1. English
 2. Hindi (Native)
 3. French (DELF Niveau A2)
@@ -66,9 +62,4 @@
 - 1979 - 1981 May : 1981 : Class XII , All India Senior school Certificate Examination, All India Council of Secondary Education, New Delhi, India
 - 1970 - 1979 May : 1979 : Class X, All India Secondary School Examination, All India Council of SEcondary Education, New Delhi, India
 
-
----
-
-
-# Please click below for my presentations
 
